@@ -6,3 +6,5 @@ Exercise files from the book *Structure and Interpretation of Computer Programs.
 
 So far using the *Gambit Interpreter/Compiler.*
 After installing you can run it by calling `gsi` or `gsc` on the command line.
+
+[Gambit Manual](http://www.iro.umontreal.ca/~gambit/doc/gambit.html)
