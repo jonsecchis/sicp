@@ -1,9 +1,8 @@
 # sicp
-Structure and Interpretation of Computer Programs
 
-Excersise files from the book.
+Exercise files from the book *Structure and Interpretation of Computer Programs.*
 
-## Interpreter
+## Interpreter/Compiler
 
-So far using the **Gambit Interpreter/Compiler.**
-After installing you can run it by calling `gsi` or `gsc`.
+So far using the *Gambit Interpreter/Compiler.*
+After installing you can run it by calling `gsi` or `gsc` on the command line.
