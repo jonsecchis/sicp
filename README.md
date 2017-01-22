@@ -15,13 +15,17 @@ So far using the *Gambit Interpreter/Compiler.*
 ## Tips to Remember
 
 **Get arguments from the command line**
+
 ```
 (car (command-line))
 (cadr (command-line))
 (caddr (command-line))
 ```
+
 **Read input string as a Number**
+
 `(string->number arg)`
 
 **Print the Result**
+
 `(pretty-print arg)`
