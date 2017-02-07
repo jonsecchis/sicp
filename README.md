@@ -1,12 +1,10 @@
-# sicp
+# Structure and Interpretations of Computer Programs
 
 Exercise files from the book *Structure and Interpretation of Computer Programs.*
 
 ## Interpreter/Compiler
 
-So far using the *Gambit Interpreter/Compiler.*
-
-[Gambit Manual](http://www.iro.umontreal.ca/~gambit/doc/gambit.html)
+So far using the [Gambit Interpreter/Compilter](http://www.iro.umontreal.ca/~gambit/doc/gambit.html)
 
 ## Running Functions from Command Line
 
