@@ -1,4 +1,4 @@
-# Structure and Interpretations of Computer Programs
+# Structure and Interpretation of Computer Programs
 
 Exercise files from the book *Structure and Interpretation of Computer Programs.*
 
