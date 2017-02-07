@@ -1,6 +1,6 @@
 #!/usr/bin/env gsi-script
 
-;Compound expressions using the prefix notation for operators.
+;Expressions using the prefix notation for operators.
 
 (pretty-print
 (+ 137 349))
