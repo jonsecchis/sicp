@@ -1,6 +1,6 @@
 #!/usr/bin/env gsi-script
 
-;Fast Square Root Program with Precision Index
+;Square Root Program with Precision Index
 ;Written by Jon Secchis.
 ;2017
 ;
@@ -8,7 +8,6 @@
 ;1 - A positive number 'n'
 ;2 - An index of precision 'p'
 ;
-;This program is really fast!
 
 (define (square-root n p)
 
