@@ -1,6 +1,8 @@
 #!/usr/bin/env gsi-script
 
-;Program to calculate the square root of any positive number.
+;Fast Square Root Program with Precision Index
+;Written by Jon Secchis.
+;2017
 ;
 ;It takes two arguments:
 ;1 - A positive number 'n'
