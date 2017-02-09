@@ -35,7 +35,7 @@
       ;    we pass as arguments the number 'n' and '9' as a starting point.
       ;2 - After finding that 'near-root' we must now restore the number
       ;    by applying the inverse operation we did before.
-      ;    But instead of performing that inverse operation the,
+      ;    But instead of performing that inverse operation the
       ;    same number of times we did to get here, we permorm only half (c/2)!
       ;    Example for 'n = 6300':
       ;    63 (divided by 10 two times using o+) (c = 2)
@@ -63,11 +63,11 @@
   ;the initial guess, the closer you get to a perfect root!
   (define (calc n g p)
     (if (<= p 1)
-      ;Precision is only 1
-      ;perform Newton's method one time over the initial guess 'g'.
+      ;Precision is down to 1
+      ;perform Newton's method one time over the initial guess 'g' and return.
       (exact->inexact (newton n g))
       ;Precision is greater than 1
-      ;perform Newton's method 'p' times over the initial guess 'g'.
+      ;perform Newton's method over the initial guess 'g' until 'p' is down to 1.
       (calc n (newton n g) (- p 1))))
 
   ;Initialize!
